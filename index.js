@@ -1,1 +1,1 @@
-//meh
+Math.random();
