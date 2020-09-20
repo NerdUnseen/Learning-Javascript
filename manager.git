@@ -1,3 +1,0 @@
-$ git checkout -b <done>
-$ git checkout -b new-branch dev-branch
-Switched to branch 'new-branch'
